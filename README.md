@@ -235,7 +235,7 @@ zone "janganlupa-ta.c14.pw" {
 4. Buat direktori bernama janganlupa
 5. jalankan ```cp /etc/bind/db.local /etc/bind/janganlupa/janganlupa-ta.c14.pw```
 6. jalankan ```nano /etc/bind/janganlupa/janganlupa-ta.c14.pw```
-7. Tambahkan konfigurasi seperti gambar berikut
+7. Tambahkan konfigurasi seperti gambar berikut  
 ![](img/12a.jpg)
 8. jalankan ```service bind9 restart```
 9. Pada setting proxy mozilla, masukkan ```janganlupa-ta.c14.pw``` pada kolom "HTTP Proxy"
