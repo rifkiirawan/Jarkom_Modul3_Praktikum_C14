@@ -225,7 +225,6 @@ Jawab :
 Jawab :
 1. Pada UML MALANG, lakukan setting DNS Server terlebih dahulu, jalankan ```apt-get install bind9 -y```
 2. Jalankan ```nano /etc/bind/named.conf.local```
-![](img/6e.jpg)  
 3. Tambahkan konfigurasi seperti berikut 
 ```
 zone "janganlupa-ta.c14.pw" {
