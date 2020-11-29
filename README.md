@@ -221,7 +221,7 @@ Jawab :
 5. Coba masuk ke situs its.ac.id, jika tampilan error seperti berikut, maka konfigurasi sudah benar
 ![](img/11a.jpg)
 
-### 12. mengganti domain dengan janganlupa-ta.c14.pw (REVISI)
+### 12. mengganti domain dengan janganlupa-ta.c14.pw
 Jawab :
 1. Pada UML MALANG, lakukan setting DNS Server terlebih dahulu, jalankan ```apt-get install bind9 -y```
 2. Jalankan ```nano /etc/bind/named.conf.local```
